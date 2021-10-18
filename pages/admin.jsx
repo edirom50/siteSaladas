@@ -7,7 +7,7 @@ const AdminPage = () => {
       <Head>
         <title>Adiministração</title>
       </Head>
-      <Admin/>
+      <Admin />
     </>
   );
 };
