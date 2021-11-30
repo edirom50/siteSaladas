@@ -1,8 +1,8 @@
 import { Container, Wrapper } from '@/components/Layout'
 import { Input, Select } from '@/components/Input';
 import { Button } from '@/components/Button';
-import { Post as PostItem } from '@/components/Views';
-import Link from 'next/link';
+// import { Post as PostItem } from '@/components/Views';
+// import Link from 'next/link';
 import { usePedidosItensAvulsosPages } from '@/lib/pedidosItensAvulsos';
 import { ItemPedido } from '@/components/ItemPedido'
 import styles from './admin.module.css';
